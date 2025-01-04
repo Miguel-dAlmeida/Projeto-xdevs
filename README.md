@@ -9,7 +9,7 @@
 
 ## __Apresentação e Contextualização__
 
-Olá, meu nome é Miguel e sou um aspirante a Desenvolvedor Web. Este README descreve o projeto __*X-DEVS*__, desenvolvido há cerca de 6 meses, durante o bootcamp gratuito *"Semana do Zero ao Programador Contratado"* da *Dev em Dobro*, realizado no YouTube com três aulas ao vivo.  
+Olá, meu nome é Mário Miguel e sou um aspirante a Desenvolvedor Web. Este README descreve o projeto __*X-DEVS*__, desenvolvido há cerca de 6 meses, durante o bootcamp gratuito *"Semana do Zero ao Programador Contratado"* da *Dev em Dobro*, realizado no YouTube com três aulas ao vivo.  
 Esse evento marcou meu primeiro contato com o desenvolvimento web e despertou meu interesse pela área, motivando-me a adquirir o curso *DevQuest* da *Dev em Dobro*.
 
 Na época, ainda não era estudante de programação e o projeto foi desenvolvido juntamente com o professor Beto durante as sessões ao vivo. Como o README não foi elaborado na conclusão do projeto, estou redigindo este documento agora, visando manter meu GitHub bem estruturado, atualizado e padronizado, com arquivos `README.md` para todos os meus projetos.
@@ -23,7 +23,7 @@ Além disso, o design do projeto é totalmente responsivo, garantindo uma experi
 ## __Gif e URL da Página__
 
    <div>
-  <img src="./src/imagens/gif_campo_projetos_X-Devs.gif" alt="Gif do resultado final da página" >
+  <img src="./src/imagens/gif_campo_projetos_X-Devs.gif" alt="Gif da página">
 </div>
 
 ### [GitHub Pages](https://miguel-dalmeida.github.io/projeto-xdevs/) 
